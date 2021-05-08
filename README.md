@@ -1,5 +1,6 @@
 # Melbourne House Price Prediction Using Advanced Machine Learning Models.
 
+ ![House Price Prediction Using Advanced Machine Learning Models](images/house-price-predicion.jpeg)
 
 --- 
 
